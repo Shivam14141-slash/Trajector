@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Trajector Medical Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Trajector Medical Tests(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.qa.opencart.tests.TrajectorSmokeTest">
+        <methods>
+          <include name="trajectorMedicalGetStartedPageTest"/>
+          <include name="setup"/>
+          <include name="trajectorMedicalHomePageTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.opencart.tests.TrajectorSmokeTest -->
+    </classes>
+  </test> <!-- Trajector Medical Tests(failed) -->
+</suite> <!-- Failed suite [Trajector Medical Test Suite] -->

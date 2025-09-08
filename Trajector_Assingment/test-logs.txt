@@ -1,0 +1,164 @@
+2025-09-08 12:00:35 [INFO] === Test Execution Started ===
+2025-09-08 12:00:35 [INFO] PlaywrightFactory initialized
+2025-09-08 12:00:35 [INFO] Properties loaded
+2025-09-08 12:00:35 [INFO] Browser set to: chrome
+2025-09-08 12:00:42 [INFO] Browser initialized and go to: https://www.trajectormedical.com/
+2025-09-08 12:00:42 [INFO] HomePage object created
+2025-09-08 12:00:42 [INFO] Step 1: Verifying Home Page
+2025-09-08 12:00:42 [INFO] Home page title verified: Medical Evidence To Support Your Disability Claim - Trajector Medical
+2025-09-08 12:00:42 [INFO] Home page URL verified: https://www.trajectormedical.com/
+2025-09-08 12:00:42 [INFO] Review section verified
+2025-09-08 12:00:42 [INFO] Step 2: Clicking Get Started button
+2025-09-08 12:00:43 [INFO] Successfully navigated to Get Started page
+2025-09-08 12:00:43 [INFO] Step 3: Verifying Get Started Page
+2025-09-08 12:00:43 [INFO] Get Started page title verified
+2025-09-08 12:00:43 [INFO] Get Started page URL verified
+2025-09-08 12:00:43 [INFO] Form title verified
+2025-09-08 12:00:43 [INFO] Step 4: Filling form with random test data
+2025-09-08 12:00:45 [INFO] Form filled successfully with random data
+2025-09-08 12:00:55 [INFO] === Test Execution Completed ===
+2025-09-08 12:00:55 [INFO] Closing browser...
+2025-09-08 12:05:16 [INFO] *****  Test  Started  *****
+2025-09-08 12:05:16 [INFO] PlaywrightFactory initialized
+2025-09-08 12:05:16 [INFO] Properties loaded
+2025-09-08 12:05:16 [INFO] Browser set to: chrome
+2025-09-08 12:05:26 [INFO] Browser initialized and go to: https://www.trajectormedical.com/
+2025-09-08 12:05:26 [INFO] HomePage object created
+2025-09-08 12:05:26 [INFO] Step 1: Verifying Home Page
+2025-09-08 12:05:26 [INFO] Home page title verified: Medical Evidence To Support Your Disability Claim - Trajector Medical
+2025-09-08 12:05:26 [INFO] Home page URL verified: https://www.trajectormedical.com/
+2025-09-08 12:05:26 [INFO] Review section verified
+2025-09-08 12:05:26 [INFO] Step 2: Clicking Get Started button
+2025-09-08 12:05:26 [INFO] Successfully navigated to Get Started page
+2025-09-08 12:05:26 [INFO] Step 3: Verifying Get Started Page
+2025-09-08 12:05:26 [INFO] Get Started page title verified
+2025-09-08 12:05:26 [INFO] Get Started page URL verified
+2025-09-08 12:05:27 [INFO] Form title verified
+2025-09-08 12:05:27 [INFO] Step 4: Filling form with random test data
+2025-09-08 12:05:28 [INFO] Form filled successfully with random data
+2025-09-08 12:05:38 [INFO] **** Test  Completed ****
+2025-09-08 12:05:38 [INFO] Closing browser...
+2025-09-08 12:08:23 [INFO] *****  Test  Started  *****
+2025-09-08 12:08:23 [INFO] PlaywrightFactory initialized
+2025-09-08 12:08:23 [INFO] Properties loaded
+2025-09-08 12:08:23 [INFO] Browser set to: chrome
+2025-09-08 12:08:33 [INFO] Browser initialized and go to: https://www.trajectormedical.com/
+2025-09-08 12:08:33 [INFO] HomePage object created
+2025-09-08 12:08:33 [INFO] Step 1: Verifying Home Page
+2025-09-08 12:08:33 [INFO] Home page title verified: Medical Evidence To Support Your Disability Claim - Trajector Medical
+2025-09-08 12:08:33 [INFO] Home page URL verified: https://www.trajectormedical.com/
+2025-09-08 12:08:33 [INFO] Review section verified
+2025-09-08 12:08:33 [INFO] Step 2: Clicking Get Started button
+2025-09-08 12:08:34 [INFO] Successfully navigated to Get Started page
+2025-09-08 12:08:34 [INFO] Step 3: Verifying Get Started Page
+2025-09-08 12:08:34 [INFO] Get Started page title verified
+2025-09-08 12:08:34 [INFO] Get Started page URL verified
+2025-09-08 12:08:35 [INFO] Form title verified
+2025-09-08 12:08:35 [INFO] Step 4: Filling form with random test data
+2025-09-08 12:08:38 [INFO] Form filled successfully with random data
+2025-09-08 12:08:48 [INFO] **** Test  Completed ****
+2025-09-08 12:08:48 [INFO] Closing browser...
+2025-09-08 12:09:09 [INFO] *****  Test  Started  *****
+2025-09-08 12:09:09 [INFO] PlaywrightFactory initialized
+2025-09-08 12:09:09 [INFO] Properties loaded
+2025-09-08 12:09:09 [INFO] Browser set to: chrome
+2025-09-08 12:09:16 [INFO] Browser initialized and go to: https://www.trajectormedical.com/
+2025-09-08 12:09:16 [INFO] HomePage object created
+2025-09-08 12:09:16 [INFO] Step 1: Verifying Home Page
+2025-09-08 12:09:16 [INFO] Home page title verified: Medical Evidence To Support Your Disability Claim - Trajector Medical
+2025-09-08 12:09:16 [INFO] Home page URL verified: https://www.trajectormedical.com/
+2025-09-08 12:09:16 [INFO] Review section verified
+2025-09-08 12:09:16 [INFO] Step 2: Clicking Get Started button
+2025-09-08 12:09:17 [INFO] Successfully navigated to Get Started page
+2025-09-08 12:09:17 [INFO] Step 3: Verifying Get Started Page
+2025-09-08 12:09:17 [INFO] Get Started page title verified
+2025-09-08 12:09:17 [INFO] Get Started page URL verified
+2025-09-08 12:09:17 [INFO] Form title verified
+2025-09-08 12:09:17 [INFO] Step 4: Filling form with random test data
+2025-09-08 12:09:20 [INFO] Form filled successfully with random data
+2025-09-08 12:09:30 [INFO] **** Test  Completed ****
+2025-09-08 12:09:30 [INFO] Closing browser...
+2025-09-08 12:11:37 [INFO] *****  Test  Started  *****
+2025-09-08 12:11:37 [INFO] PlaywrightFactory initialized
+2025-09-08 12:11:37 [INFO] Properties loaded
+2025-09-08 12:11:37 [INFO] Browser set to: chrome
+2025-09-08 12:11:46 [INFO] Browser initialized and go to: https://www.trajectormedical.com/
+2025-09-08 12:11:46 [INFO] HomePage object created
+2025-09-08 12:11:46 [INFO] Step 1: Verifying Home Page
+2025-09-08 12:11:46 [INFO] Home page title verified: Medical Evidence To Support Your Disability Claim - Trajector Medical
+2025-09-08 12:11:46 [INFO] Home page URL verified: https://www.trajectormedical.com/
+2025-09-08 12:11:46 [INFO] Review section verified
+2025-09-08 12:11:46 [INFO] Step 2: Clicking Get Started button
+2025-09-08 12:11:46 [INFO] Successfully navigated to Get Started page
+2025-09-08 12:11:46 [INFO] Step 3: Verifying Get Started Page
+2025-09-08 12:11:46 [INFO] Get Started page title verified
+2025-09-08 12:11:46 [INFO] Get Started page URL verified
+2025-09-08 12:11:46 [INFO] Form title verified
+2025-09-08 12:11:46 [INFO] Step 4: Filling form with random test data
+2025-09-08 12:11:49 [INFO] Form filled successfully with random data
+2025-09-08 12:11:59 [INFO] **** Test  Completed ****
+2025-09-08 12:11:59 [INFO] Closing browser...
+2025-09-08 12:12:21 [INFO] *****  Test  Started  *****
+2025-09-08 12:12:21 [INFO] PlaywrightFactory initialized
+2025-09-08 12:12:21 [INFO] Properties loaded
+2025-09-08 12:12:21 [INFO] Browser set to: chrome
+2025-09-08 12:12:37 [INFO] Browser initialized and go to: https://www.trajectormedical.com/
+2025-09-08 12:12:37 [INFO] HomePage object created
+2025-09-08 12:12:37 [INFO] Step 1: Verifying Home Page
+2025-09-08 12:12:37 [INFO] Home page title verified: Medical Evidence To Support Your Disability Claim - Trajector Medical
+2025-09-08 12:12:37 [INFO] Home page URL verified: https://www.trajectormedical.com/
+2025-09-08 12:12:37 [INFO] Review section verified
+2025-09-08 12:12:37 [INFO] Step 2: Clicking Get Started button
+2025-09-08 12:12:38 [INFO] Successfully navigated to Get Started page
+2025-09-08 12:12:38 [INFO] Step 3: Verifying Get Started Page
+2025-09-08 12:12:38 [INFO] Get Started page title verified
+2025-09-08 12:12:38 [INFO] Get Started page URL verified
+2025-09-08 12:12:38 [INFO] Form title verified
+2025-09-08 12:12:38 [INFO] Step 4: Filling form with random test data
+2025-09-08 12:12:46 [INFO] Form filled successfully with random data
+2025-09-08 12:12:56 [INFO] **** Test  Completed ****
+2025-09-08 12:12:56 [INFO] Closing browser...
+2025-09-08 12:38:25 [ERROR] 
+Cannot find class in classpath: com.qa.opencart.tests.TrajectorSmokeTest
+2025-09-08 12:52:24 [ERROR] 
+Cannot find class in classpath: com.qa.opencart.tests.TrajectorSmokeTest
+2025-09-08 12:53:24 [INFO] *****  Test  Started  *****
+2025-09-08 12:53:24 [INFO] PlaywrightFactory initialized
+2025-09-08 12:53:24 [INFO] Properties loaded
+2025-09-08 12:53:24 [INFO] Browser set to: chrome
+2025-09-08 12:53:35 [INFO] Browser initialized and go to: https://www.trajectormedical.com/
+2025-09-08 12:53:35 [INFO] HomePage object created
+2025-09-08 12:53:35 [INFO] Step 1: Verifying Home Page
+2025-09-08 12:53:35 [INFO] Home page title verified: Medical Evidence To Support Your Disability Claim - Trajector Medical
+2025-09-08 12:53:35 [INFO] Home page URL verified: https://www.trajectormedical.com/
+2025-09-08 12:53:35 [INFO] Review section verified
+2025-09-08 12:53:35 [INFO] Step 2: Clicking Get Started button
+2025-09-08 12:53:35 [INFO] Successfully navigated to Get Started page
+2025-09-08 12:53:35 [INFO] Step 3: Verifying Get Started Page
+2025-09-08 12:53:35 [INFO] Get Started page title verified
+2025-09-08 12:53:35 [INFO] Get Started page URL verified
+2025-09-08 12:53:36 [INFO] Form title verified
+2025-09-08 12:53:36 [INFO] Step 4: Filling form with random test data
+2025-09-08 12:53:38 [INFO] Form filled successfully with random data
+2025-09-08 12:53:48 [INFO] **** Test  Completed ****
+2025-09-08 12:53:48 [INFO] ***Closing browser***
+2025-09-08 12:54:43 [INFO] *****  Test  Started  *****
+2025-09-08 12:54:43 [INFO] PlaywrightFactory initialized
+2025-09-08 12:54:43 [INFO] Properties loaded
+2025-09-08 12:54:43 [INFO] Browser set to: chrome
+2025-09-08 12:54:50 [INFO] Browser initialized and go to: https://www.trajectormedical.com/
+2025-09-08 12:54:50 [INFO] HomePage object created
+2025-09-08 12:54:50 [INFO] Step 1: Verifying Home Page
+2025-09-08 12:54:50 [INFO] Home page title verified: Medical Evidence To Support Your Disability Claim - Trajector Medical
+2025-09-08 12:54:50 [INFO] Home page URL verified: https://www.trajectormedical.com/
+2025-09-08 12:54:50 [INFO] Review section verified
+2025-09-08 12:54:50 [INFO] Step 2: Clicking Get Started button
+2025-09-08 12:54:51 [INFO] Successfully navigated to Get Started page
+2025-09-08 12:54:51 [INFO] Step 3: Verifying Get Started Page
+2025-09-08 12:54:51 [INFO] Get Started page title verified
+2025-09-08 12:54:51 [INFO] Get Started page URL verified
+2025-09-08 12:54:51 [INFO] Form title verified
+2025-09-08 12:54:51 [INFO] Step 4: Filling form with random test data
+2025-09-08 12:54:53 [INFO] Form filled successfully with random data
+2025-09-08 12:55:03 [INFO] **** Test  Completed ****
+2025-09-08 12:55:03 [INFO] ***Closing browser***
